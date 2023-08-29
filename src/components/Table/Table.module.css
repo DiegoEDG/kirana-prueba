@@ -1,0 +1,13 @@
+table {
+	margin-top: 20px;
+	vertical-align: middle;
+	border-collapse: collapse;
+}
+td {
+	border: 1px solid #fff;
+	text-align: center;
+	padding: 5px;
+}
+.wrongFormat {
+	background-color: rgb(195, 189, 0);
+}

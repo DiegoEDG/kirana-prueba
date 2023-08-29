@@ -1,0 +1,10 @@
+.mainContainer {
+	display: flex;
+	flex-direction: column;
+	justify-items: center;
+	align-items: center;
+	max-width: 1440px;
+	height: auto;
+	padding: 15px;
+	margin: 0px auto;
+}
